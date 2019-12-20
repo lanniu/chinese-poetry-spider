@@ -1,0 +1,47 @@
+{
+  "ci": {
+    "title": "词",
+    "path": "/chinese-poetry/chinese-poetry/tree/master/ci",
+    "regexp": "^ci\\.song\\.[0-9]+\\.json$"
+  },
+  "lunyu": {
+    "title": "论语",
+    "path": "/chinese-poetry/chinese-poetry/tree/master/lunyu",
+    "regexp": "^lunyu\\.json$"
+  },
+  "mengxue": {
+    "title": "蒙学",
+    "path": "/chinese-poetry/chinese-poetry/tree/master/mengxue",
+    "regexp": "\\.json$"
+  },
+  "shijing": {
+    "title": "诗经",
+    "path": "/chinese-poetry/chinese-poetry/tree/master/shijing",
+    "regexp": "^shijing\\.json$"
+  },
+  "sishuwujing": {
+    "title": "四书五经",
+    "path": "/chinese-poetry/chinese-poetry/tree/master/sishuwujing",
+    "regexp": "\\.json$"
+  },
+  "huajianji": {
+    "title": "花间集",
+    "path": "/chinese-poetry/chinese-poetry/tree/master/wudai/huajianji",
+    "regexp": "^huajianji.*\\.json$"
+  },
+  "nantang": {
+    "title": "南唐",
+    "path": "/chinese-poetry/chinese-poetry/tree/master/wudai/nantang",
+    "regexp": "\\.json$"
+  },
+  "youmengying": {
+    "title": "幽梦影",
+    "path": "/chinese-poetry/chinese-poetry/tree/master/youmengying",
+    "regexp": "\\.json$"
+  },
+  "yuanqu": {
+    "title": "元曲",
+    "path": "/chinese-poetry/chinese-poetry/tree/master/yuanqu",
+    "regexp": "\\.json$"
+  }
+}
